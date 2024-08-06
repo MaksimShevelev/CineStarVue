@@ -2,7 +2,7 @@
   "name": "CineStar",
   "short_name": "CineStar",
   "description": "A Vue.js PWA for movie lovers",
-  "start_url": "/",
+  "start_url": "https://cine-star-vue.vercel.app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
