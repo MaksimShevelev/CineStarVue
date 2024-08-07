@@ -1,8 +1,8 @@
 {
   "name": "CineStar",
   "short_name": "CineStar",
-  "description": "A Vue.js PWA for movie lovers",
-  "start_url": "/index.html",
+  "description": "Vue.js PWA",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
