@@ -2,18 +2,18 @@
   "name": "CineStar",
   "short_name": "CineStar",
   "description": "A Vue.js PWA for movie lovers",
-  "start_url": "https://cine-star-vue.vercel.app/",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/icons/icon-192x192.png",
+      "src": "/src/assents/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon-512x512.png",
+      "src": "/src/assents/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
